@@ -11,3 +11,27 @@
 ul {
   list-style: none;
 }
+
+.results {
+  background-color: #c0c4cf;
+  text-align: center;
+  margin: 10px;
+  height: 250px;
+  width: 350px;
+
+}
+
+.userImg {
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+}
+
+.repoDiv {
+  height: 100px;
+  width: 350px;
+  margin: 10px;
+  padding-top: 5px;
+  text-align: center;
+  background-color: #c0c4cf;
+}
